@@ -11,7 +11,7 @@ Vue-html5-editor is an html5 wysiwyg editor for vue,easy and flexible,compatible
 # 安装 Installation
 
 ### Npm
-
+###abcd
 
 ```bash
 npm install vue-html5-editor --save-dev
